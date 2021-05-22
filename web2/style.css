@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+body{
+    height: 700px;
+}
+.a{
+    position: relative;
+    left: 45.2%;
+    top: -17px;
+    font-size: 30px;
+}
+#clock{
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    font-size: 60px;
+    font-family: 'Space Mono', monospace;
+    color: white;
+    text-shadow: 0 0 25px rgb(0, 255, 234);
+    color: rgb(86, 255, 80);
+    border: double rgb(255, 0, 0);
+    box-sizing: 0 0 25px rgb(208, 255, 0);
+}
+.bayterek img{
+    height: 600px;
+    position: relative;
+    top: -40px;
+    left: 100px;
+}
+.bayterek p{
+    font-size: 22px;
+    position: relative;
+    left: 100px;
+    top: -33px;
+}
+.bayterek span{
+    font-weight: bold;
+}
+.khan img{
+    position: relative;
+    top: -807px;
+    left: 650px;
+    height: 500px;
+}
+.khan p{
+    position: relative;
+    top: -800px;
+    left: 650px;
+    font-size: 22px;
+}
+.khan span{
+    font-weight: bold;
+}
